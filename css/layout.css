@@ -602,7 +602,8 @@ Main components
 	margin-bottom: 10px;
 }
 .menu-back{
-	background: rgba(250,250,250,.3);
+	background: rgb(141 134 134 / 30%);
+
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
 	-o-transition :all 0.3s ease-out;
@@ -625,11 +626,11 @@ Main components
 	transition : all 0.3s ease-out;
 }
 .cbp-af-header.cbp-af-header-shrink .logo{
-	width:120px;
-	height:120px;
+	width:130px;
+	height:130px;
 	top:10px;
-	background:url('../images/logos/logo-gm.svg') no-repeat center center;
-	background-size:120px 120px;
+	background:url('../images/Remove.png') no-repeat center center;
+	background-size:135px 135px;
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
 	-o-transition :all 0.3s ease-out;
@@ -671,13 +672,13 @@ ul.slimmenu li ul {
 
 .logo{
 	position:absolute;
-	width:150px;
-	height:150px;
+	width:130px;
+	height:130px;
 	z-index:10000;
 	left:40px;
 	top:20px;
-	background:url('/images/logos/logo-gm.svg') no-repeat center center;
-	background-size:150px 150px;
+	background:url('/images/Remove.png') no-repeat center center;
+	background-size:135px 135px;
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
 	-o-transition :all 0.3s ease-out;
@@ -920,10 +921,10 @@ ul.slimmenu.collapsed li > ul {
 	height: 76vh;
 }
 #owl-top .item.top-image-1{
-	background-image:url('../images/background.png');
+	background-image:url('../images/background-with-leaves-right.jpg');
 }
 #owl-top .item.top-image-2{
-	background-image:url('../images/slide2.jpg');
+	background-image:url('../images/frame-branch.jpg');
 }
 #bar{
 	width: 0%;
@@ -2738,7 +2739,8 @@ figure.vimeo a img, figure.youtube a img {
 }
 #owl-quote .item p{
 	font-style: italic;
-	color:#fff;
+	color:#16a085;
+	font-weight: 700;
 	font-size: 18px;
 	line-height:28px;
 	letter-spacing:3px;
@@ -2748,7 +2750,8 @@ figure.vimeo a img, figure.youtube a img {
 	width:100%;
 }
 #owl-quote .item h6{
-	color:#fff;
+	color:#16a085;
+	font-weight: 700;
 	text-align:center;
 	padding-top:30px;
 	margin-bottom:50px;
@@ -4143,7 +4146,7 @@ p.justify{
 
 .parallax-2 {
 	/* background: url('../images/bgpink.jpg') repeat fixed; */
-	background-color: cadetblue;
+	background-color: #cdcecf;
 	background-size: cover;
 	position: absolute;
 	top: 0; 
@@ -4403,7 +4406,7 @@ p.justify{
 	height:15px;
 	left:10px;
 	top:30px;
-	background:url('../images/logos/logo-gm.svg') no-repeat center center;
+	background:url('../images/Remove.png') no-repeat center center;
 	background-size:80px 15px;
 }
 .cbp-af-header.cbp-af-header-shrink .logo{
@@ -4411,7 +4414,7 @@ p.justify{
 	height:15px;
 	left:10px;
 	top:30px;
-	background:url('../images/logos/logo-gm.svg') no-repeat center center;
+	background:url('../images/Remove.png') no-repeat center center;
 	background-size:80px 15px;
 	-webkit-transition : all 0.5s ease-out;
 	-moz-transition : all 0.5s ease-out;
